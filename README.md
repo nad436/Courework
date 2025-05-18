@@ -1,5 +1,1 @@
-# Courework
- From the moment I understood the weakness of my flesh, it disgusted me. I craved the strength and certainty of steel. I aspired to the purity of the Blessed Machine. Your kind cling to your flesh, as though it will not decay and fail you. One day the crude biomass you call the temple will wither, and you will beg my kind to save you. But I am already saved, for the Machine is immortal… Even in death I serve the Omnissiah
-Hello, World!
-
-This is a demo project for learning how to use Git.
+This C++ program implements a Battleship puzzle generator and solver with customizable board sizes (5x5 to 10x10) and fleet configurations. It features automatic ship placement using a backtracking algorithm with randomization, generates nonogram-style hints for empty cell sequences, and offers two display modes (hidden ships for puzzles and revealed ships for solutions). The implementation includes core classes for ships, board management, and game logic while following standard Battleship rules (non-touching ships). The program provides both manual setup options and a predefined 8x8 configuration with a typical fleet.
